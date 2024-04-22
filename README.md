@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**arijadhav1/arijadhav1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello, welcome to Aryan's Github! 👋
 
 - 🔭 I’m currently working on a full stack application integrating my financial analysis project and improving upon it.
 - 🌱 I’m currently learning about AWS and have signed up to take the AWS Cloud Practitioner Exam soon.
