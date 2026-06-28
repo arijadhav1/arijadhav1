@@ -5,9 +5,9 @@ Right now I'm building a cloud-based Active Directory home lab on Vultr that sim
 
 I'm also finishing up my IT degree at Purdue Global and studying for the CompTIA Security+ exam. My background includes Python, SQL, Power BI, and workflow automation.
 
-🔭 Currently building: Active Directory Detection + Automated Response Lab (Splunk + Shuffle + SOAR)
-🌱 Currently studying: CompTIA Security+ (SY0-701)
-🎯 Target roles: IT Support / Helpdesk then SOC Analyst
-📫 aryan.jadhav@gmail.com
+🔭 Currently building: Active Directory Detection + Automated Response Lab (Splunk + Shuffle + SOAR)<br>
+🌱 Currently studying: CompTIA Security+ (SY0-701)<br>
+🎯 Target roles: IT Support / Helpdesk then SOC Analyst<br>
+📫 aryan.jadhav@gmail.com<br>
 
 Check out my projects below!
